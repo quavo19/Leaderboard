@@ -98,6 +98,10 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# 🔭 Future Features
+
+- Add backgriund a image.
+- style input fields.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
