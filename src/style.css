@@ -200,3 +200,23 @@ button {
 .Coll-2 {
   padding-left: 20px;
 }
+
+@media only screen and (max-width: 890px){
+    .Content {
+      flex-direction: column;
+      margin: 5%;
+    }
+    .score{
+      width: 70vw;
+      order: 4;
+    }
+
+    h1 {
+      font-size: 10vw;
+    }
+
+    .form,
+    .form2 {
+      width: 70vw;
+    }
+}
