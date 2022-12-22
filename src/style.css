@@ -5,6 +5,7 @@
 }
 
 body {
+  color:  #21457a;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -30,8 +31,7 @@ header,
 }
 
 .score {
-  width: 50%;
-  max-width: 300px;
+  min-width: 300px;
 }
 
 .score-content {
@@ -39,7 +39,8 @@ header,
 }
 
 .score-update {
-  border: 2.5px solid;
+  border: 2.5px solid  #487591;
+  border-radius: 7px;
   min-height: 200px;
 }
 
@@ -55,10 +56,13 @@ header,
 button {
   display: flex;
   align-items: center;
-  border: 3px solid;
-  height: 30px;
+  border: 3px solid #50dbed;
+  color: #fff;
+  height: 40px;
   padding: 7px;
+  background: #3cb2c7;
   font-size: 1rem;
+  border-radius: 8px;
 }
 
 .form {
@@ -187,4 +191,12 @@ button {
   font-size: 0.8rem;
   left: 0.8rem;
   background-color: #fff;
+}
+
+.form-container {
+  padding: 30px 0;
+}
+
+.Coll-2 {
+  padding-left: 20px;
 }
