@@ -187,21 +187,21 @@ button {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color:  #c6d0d1;
 }
 
 .form2__input2:not(:-moz-placeholder-shown).form2__input2:not(:focus) ~ .form2__label {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color:  #c6d0d1;
 }
 
 .form2__input2:not(:-ms-input-placeholder).form2__input2:not(:focus) ~ .form2__label {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color:  #c6d0d1;
 }
 
 .form-container {
