@@ -91,7 +91,7 @@ button {
 }
 
 .form__input:hover {
-  border-color: rgb(142, 212, 213);
+  border-color: rgb(31, 55, 56);
 }
 
 .form__input:focus {
