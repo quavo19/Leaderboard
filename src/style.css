@@ -42,11 +42,13 @@ header,
 .score-update {
   border: 2.5px solid  #487591;
   border-radius: 7px;
-  min-height: 200px;
+  height: 45vh;
+  overflow-y: scroll;
 }
 
 .name-score {
   display: flex;
+  justify-content: space-between;
   padding: 15px;
 }
 
@@ -89,7 +91,7 @@ button {
 }
 
 .form__input:hover {
-  border-color: rgb(142, 212, 213);
+  border-color: rgb(31, 55, 56);
 }
 
 .form__input:focus {
@@ -111,21 +113,21 @@ button {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color: #c6d0d1;
 }
 
 .form__input:not(:-moz-placeholder-shown).form__input:not(:focus) ~ .form__label {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color: #c6d0d1;
 }
 
 .form__input:not(:-ms-input-placeholder).form__input:not(:focus) ~ .form__label {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color: #c6d0d1;
 }
 
 .form2 {
@@ -151,8 +153,13 @@ button {
   background: none;
 }
 
+::-webkit-scrollbar {
+  background-color: hsl(235, 24%, 19%);
+  width: 0;
+}
+
 .form2__input2:hover {
-  border-color: rgb(142, 212, 213);
+  border-color: rgb(31, 55, 56);
 }
 
 .form2__input2:focus {
@@ -185,21 +192,21 @@ button {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color: #c6d0d1;
 }
 
 .form2__input2:not(:-moz-placeholder-shown).form2__input2:not(:focus) ~ .form2__label {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color: #c6d0d1;
 }
 
 .form2__input2:not(:-ms-input-placeholder).form2__input2:not(:focus) ~ .form2__label {
   top: -0.4rem;
   font-size: 0.8rem;
   left: 0.8rem;
-  background-color: #fff;
+  background-color: #c6d0d1;
 }
 
 .form-container {
@@ -217,7 +224,6 @@ button {
   }
 
   .score {
-    width: 70vw;
     order: 4;
   }
 
