@@ -42,7 +42,8 @@ header,
 .score-update {
   border: 2.5px solid  #487591;
   border-radius: 7px;
-  min-height: 200px;
+  height: 45vh;
+  overflow-y: scroll;
 }
 
 .name-score {
