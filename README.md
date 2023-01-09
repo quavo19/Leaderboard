@@ -59,7 +59,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [live demo](https://quavo19.github.io/Leaderboard/src)
+- [live demo](https://quavo19.github.io/Leaderboard/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
