@@ -42,7 +42,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
   </ul>
 </details>
 
@@ -57,7 +59,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- not available yet
+- [live demo](https://quavo19.github.io/Leaderboard/src)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
