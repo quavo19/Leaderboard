@@ -1,14 +1,9 @@
-# webpack
+# LEADER BOARD
 <a name="readme-top"></a>
 
 
 
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
 
 </div>
 
@@ -37,7 +32,7 @@
 
 # 📖 [Leaderboard] <a name="about-project"></a>
 
-> This is a leaderboard project
+> This is a leaderboard project that uses an involvement API to display a list of users and their scores in decending order.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -54,9 +49,8 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[INSERTION]**
-- **[DELETING]**
-- **[LOCAL_STORAGE]**
+- **[Gets data from API]**
+- **[Uses asynchronous JavaScript]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +67,7 @@ To get a local copy up and running follow these simple example steps.
 ## Step 1:
 - if you don't have git installed on your machine you can download it from [here ](https://git-scm.com/downloads).
 - Once you have git installed on your machine you can clone your project by running the command below to clone this project to your local machine in the directory of the folder you want it to be cloned
-- git clone https://github.com/quavo19/Leaderboard.git
+ `git clone https://github.com/quavo19/Leaderboard.git`
 - Alternatively, you can download the zip file of your project by clicking on the `Code` button on the right side of your project page and clicking on `Download ZIP`
 
 ## Step 2: 
@@ -127,7 +121,7 @@ If you liked this project dont forget to leave a start
 
 - **does it use a database ?**
 
-  - NO, it only has local storage
+  - NO, it gets data from an involvement API
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,6 +130,5 @@ If you liked this project dont forget to leave a start
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
