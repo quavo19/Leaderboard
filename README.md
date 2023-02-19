@@ -64,14 +64,13 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running follow these simple example steps.
-### Step 1 <a name="setup">:
+### Step <a name="setup">:
 -  You can clone your project by running the command below to clone this project to your local machine in the directory of the folder you want it to be cloned
  ```sh
     git clone https://github.com/quavo19/Leaderboard.git
  ```
 - Alternatively, you can download the zip file of your project by clicking on the `Code` button on the right side of your project page and clicking on `Download ZIP`
 
-### Step 2: 
 - Locate the folder where you cloned your project to and open it ;
 ### Install
 
