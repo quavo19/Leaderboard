@@ -73,8 +73,25 @@ To get a local copy up and running follow these simple example steps.
 - Alternatively, you can download the zip file of your project by clicking on the `Code` button on the right side of your project page and clicking on `Download ZIP`
 
 ## Step 2: 
-- Locate the folder where you cloned your project to and open the `index.html` file in your browser to view your project.
+- Locate the folder where you cloned your project to and open it ;
+### Install
 
+Install this project with:
+
+Example command:
+
+```sh
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+```
+in a few seconds you should see your project live on your browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
