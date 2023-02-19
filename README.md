@@ -19,13 +19,10 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
@@ -57,6 +54,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+![Screenshot (100)](https://user-images.githubusercontent.com/87555548/219957051-e135b284-dbbf-4a64-a22a-e532e9d1c06f.png)
 
 
 - [live demo](https://quavo19.github.io/Leaderboard/dist)
@@ -66,13 +64,14 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running follow these simple example steps.
-## Step 1:
-- if you don't have git installed on your machine you can download it from [here ](https://git-scm.com/downloads).
-- Once you have git installed on your machine you can clone your project by running the command below to clone this project to your local machine in the directory of the folder you want it to be cloned
- `git clone https://github.com/quavo19/Leaderboard.git`
+### Step 1 <a name="setup">:
+-  You can clone your project by running the command below to clone this project to your local machine in the directory of the folder you want it to be cloned
+ ```sh
+    git clone https://github.com/quavo19/Leaderboard.git
+ ```
 - Alternatively, you can download the zip file of your project by clicking on the `Code` button on the right side of your project page and clicking on `Download ZIP`
 
-## Step 2: 
+### Step 2: 
 - Locate the folder where you cloned your project to and open it ;
 ### Install
 
@@ -83,6 +82,11 @@ Example command:
 ```sh
   npm install
 ```
+## Prerequisites  <a name="prerequisites"></a>
+you would need the following to be able to successfully Lunch this project
+- Git. If you don't have git installed on your machine you can download it from [here ](https://git-scm.com/downloads).
+- A browser(Chrome).
+- Node.  If you don't have node installed, you can download it from [here ](https://nodejs.org/en/download/).
 
 ### Usage
 
@@ -111,7 +115,7 @@ in a few seconds you should see your project live on your browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 🔭 Future Features
+# 🔭 Future Features <a name="future-features"></a>
 
 - Add backgriund a image.
 - style input fields.
