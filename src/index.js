@@ -1,6 +1,6 @@
 import './style.css';
-import './modules/send.js';
-import getResponse from './modules/getResponse.js';
+import './modules/Send.js';
+import getResponse from './modules/GetResponse.js';
 
 const Display = document.querySelector('.score-update');
 const GetData = document.getElementById('refresh-btn');
