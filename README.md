@@ -29,7 +29,7 @@
 
 # 📖 [Leaderboard] <a name="about-project"></a>
 
-> This is a leaderboard project that uses an involvement API to display a list of users and their scores in decending order.
+This project uses an API for user engagement to create a leaderboard that displays the names and scores of users in descending order, allowing for easy comparison and healthy competition.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -116,8 +116,9 @@ in a few seconds you should see your project live on your browser
 
 # 🔭 Future Features <a name="future-features"></a>
 
-- Add backgriund a image.
-- style input fields.
+- [ ] **[Add a background image to the home page.]**
+- [ ] **[Add animations to buttons]**
+- [ ] **[Load scores without refreshing]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -141,7 +142,7 @@ If you liked this project dont forget to leave a start
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **does it use a database ?**
+- **Does it use a database management system ?**
 
   - NO, it gets data from an involvement API
 
