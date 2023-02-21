@@ -98,7 +98,7 @@ in a few seconds you should see your project live on your browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 
 
