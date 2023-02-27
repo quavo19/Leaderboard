@@ -48,9 +48,8 @@ header,
 
 #refresh-btn:hover {
   background: #50dbed;
-  border: 3px solid #3cb2c7;
+  border: 3px solid #3db4c9;
 }
-
 
 .name-score {
   display: flex;
