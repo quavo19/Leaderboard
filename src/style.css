@@ -46,6 +46,11 @@ header,
   overflow-y: scroll;
 }
 
+#refresh-btn:hover {
+  background: #50dbed;
+  border: 3px solid #3db4c9;
+}
+
 .name-score {
   display: flex;
   justify-content: space-between;
