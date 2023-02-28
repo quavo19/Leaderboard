@@ -17,7 +17,8 @@ const sendData = async () => {
   return data;
 };
 
-submit.addEventListener('click', () => {
+submit.addEventListener('click', (e) => {
+  e.preventDefault();
   sendData();
   names.value = '';
   score.value = '';
